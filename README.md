@@ -1,2 +1,3 @@
 # RandomCentreApp
-This is the presentation of one of my first ambitious project, the Random Centre App, available on TestFlight.
+Ceci est une présentation de l'app Random Centre. Vous pouvez accéder à la bête de l'application, via le document :
+Presentation_Random_centre.pdf
